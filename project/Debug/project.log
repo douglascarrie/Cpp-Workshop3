@@ -1,0 +1,3 @@
+﻿  project.cpp
+C:\Users\Computing\Desktop\project\project.cpp(42,11): warning C4101: 'loop2': unreferenced local variable
+  project.vcxproj -> C:\Users\Computing\Desktop\project\Debug\project.exe

@@ -1,0 +1,2 @@
+C:\Users\Computing\Desktop\project\Debug\project.exe
+C:\Users\Computing\Desktop\project\Debug\project.pdb
